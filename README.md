@@ -1,2 +1,2 @@
 # jNotepadpp
-Custom, notepad alike, text editor
+Custom, notepad alike text editor
